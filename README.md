@@ -1,3 +1,5 @@
 # tableau_dasboards
 
-A couple of samples of tableau dashboard samples
+Dashboard based on a sample of Plato's Pizza
+
+Team Members - Tanishqa Agrawal, Sybil Zhang, Martin Lau and Kai Li
